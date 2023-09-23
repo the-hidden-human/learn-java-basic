@@ -1,4 +1,4 @@
-package com.h2hm.learning;
+package com.h2hm.learning.list;
 
 import java.util.ArrayList;
 import java.util.Vector;
