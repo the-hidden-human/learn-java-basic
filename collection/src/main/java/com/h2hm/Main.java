@@ -1,6 +1,7 @@
 package com.h2hm;
 
 import com.h2hm.learning.list.StackLearning;
+import com.h2hm.learning.queue.ArrayDequeLearning;
 import com.h2hm.learning.queue.DeQueueLearning;
 import com.h2hm.learning.queue.PriorityQueueLearning;
 import com.h2hm.learning.queue.QueueLearning;
@@ -14,6 +15,7 @@ public class Main {
         // StackLearning.slackLearning();
         // QueueLearning.queueLearning();
         // DeQueueLearning.deQueueLearning();
-        PriorityQueueLearning.priorityQueueLearning();
+        // PriorityQueueLearning.priorityQueueLearning();
+        ArrayDequeLearning.arrayDequeLearning();
     }
 }

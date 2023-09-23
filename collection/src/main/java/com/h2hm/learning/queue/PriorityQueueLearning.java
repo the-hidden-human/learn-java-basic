@@ -35,13 +35,13 @@ public class PriorityQueueLearning {
         priorityQueue.add("Di la ai?");
         priorityQueue.add("Em la ai");
 
-        String elemant1 = priorityQueue.poll();
-        String elemant2 = priorityQueue.poll();
-        String elemant3 = priorityQueue.poll();
+        String element1 = priorityQueue.poll();
+        String element2 = priorityQueue.poll();
+        String element3 = priorityQueue.poll();
 
         //        // Print the removed elements
-        System.out.println(elemant1); // 15
-        System.out.println(elemant2); // 10
-        System.out.println(elemant3); // 5
+        System.out.println(element1); // 15
+        System.out.println(element2); // 10
+        System.out.println(element3); // 5
     }
 }
