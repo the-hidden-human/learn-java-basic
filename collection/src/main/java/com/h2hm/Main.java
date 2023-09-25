@@ -1,6 +1,10 @@
 package com.h2hm;
 
 import com.h2hm.learning.list.StackLearning;
+import com.h2hm.learning.map.HashMapLearn;
+import com.h2hm.learning.map.HashTableLearn;
+import com.h2hm.learning.map.LinkedHashMapLearn;
+import com.h2hm.learning.map.TreeMapLearn;
 import com.h2hm.learning.queue.ArrayDequeLearning;
 import com.h2hm.learning.queue.DeQueueLearning;
 import com.h2hm.learning.queue.PriorityQueueLearning;
@@ -22,6 +26,10 @@ public class Main {
         // HashSetLearn.hashSetLearn();
         // LinkedHashSetLearn.linkedHashSetLearn();
         // SortedSetLearning.sortedSetLearn();
-        TreeSetLearning.treeSetLearn();
+        // TreeSetLearning.treeSetLearn();
+        // HashMapLearn.hashMapLearn();
+        // LinkedHashMapLearn.linkedHashMapLearn();
+        // HashTableLearn.hashTableLearn();
+        TreeMapLearn.treeMapLearn();
     }
 }
